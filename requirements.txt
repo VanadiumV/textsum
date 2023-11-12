@@ -1,0 +1,6 @@
+gensim==3.6.0
+gensim_sum_ext
+wikipedia-api
+spacy
+en-core-web-sm
+streamlit
